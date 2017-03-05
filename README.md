@@ -1,6 +1,7 @@
 # JSDSDKDemo
 [![License MIT](https://img.shields.io/badge/license-MIT-green.svg?style=flat)]
-(https://github.com/JoySeeDog/JSDSDKDemo/blob/master/LICENSE)&nbsp; [![China 中文文档](https://img.shields.io/badge/China-%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3-blue.svg)](http://www.jianshu.com/p/edc679a893c9)&nbsp;![iOS Develop](https://img.shields.io/badge/iOS-SDK%20Develop-blue.svgt)
+(https://github.com/JoySeeDog/JSDSDKDemo/blob/master/LICENSE)&nbsp; [![China 中文文档](https://img.shields.io/badge/China-%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3-blue.svg)](http://www.jianshu.com/p/edc679a893c9)&nbsp;
+[![iOS SDK](https://img.shields.io/badge/iOS-SDK%20Develop-blue.svgt)]
 
 
 ## DESCRIPTION 
