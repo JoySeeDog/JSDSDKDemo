@@ -2,8 +2,8 @@
 //  JSSDKInterfaceDemoUITests.m
 //  JSSDKInterfaceDemoUITests
 //
-//  Created by jianquan on 24/02/2017.
-//  Copyright © 2017 Perfect World. All rights reserved.
+//  Created by JoySeeDog on 24/02/2017.
+//  Copyright © 2017 JoySeeDog. All rights reserved.
 //
 
 #import <XCTest/XCTest.h>
