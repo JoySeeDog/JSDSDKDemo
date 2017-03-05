@@ -1,12 +1,13 @@
 # JSDSDKDemo
 [![License MIT](https://img.shields.io/badge/license-MIT-green.svg?style=flat)]
-(https://github.com/JoySeeDog/JSDSDKDemo/blob/master/LICENSE)&nbsp; [![China 中文文档](https://img.shields.io/badge/China-%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3-blue.svg)](http://www.jianshu.com/p/edc679a893c9))&nbsp;[![License MIT](https://img.shields.io/badge/iOS-SDK%20Develop-blue.svgt)]
+(https://github.com/JoySeeDog/JSDSDKDemo/blob/master/LICENSE)&nbsp; [![China 中文文档](https://img.shields.io/badge/China-%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3-blue.svg)](http://www.jianshu.com/p/edc679a893c9))&nbsp;![iOS Develop](https://img.shields.io/badge/iOS-SDK%20Develop-blue.svgt)
 
 
-## DESCRIPTION ##
+## DESCRIPTION 
 
- * iOS SDK develop Project structure
- * This demo Provides a good idea to achieve a app likes BanTang
+![](https://github.com/JoySeeDog/JSDSDKDemo/blob/master/sdk.png)
+
+ * This demo Provides a project structure to develop iOS SDK
  * build in xcode8 with ARC.
 
 
