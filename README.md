@@ -9,7 +9,7 @@
 
 ![](https://github.com/JoySeeDog/JSDSDKDemo/blob/master/sdk.png)
 
- * This demo Provides a project structure to develop iOS SDK
+ * This demo provides a project structure to develop iOS SDK 
  * build in xcode8 with ARC.
 
 
